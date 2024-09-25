@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/bodong/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/bodong/Desktop/FormalVerifictionLab/cs550-main/labs/lab1/src/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/home/bodong/Desktop/FormalVerifictionLab/cs550-main/labs/lab1/src/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/home/bodong/Desktop/FormalVerifictionLab/cs550-main/labs/lab1/src/.scala-build/ide-envs.json",
+    "/home/bodong/Desktop/FormalVerifictionLab/cs550-main/labs/lab1/src/BooleanAlgebra.scala"
+  ],
+  "version": "1.5.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
